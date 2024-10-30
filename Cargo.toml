@@ -2,6 +2,8 @@
 name = "raylib-ext"
 version = "0.1.0"
 edition = "2021"
+description = "Adds some small features to raylib-rs"
+license = "MIT"
 
 [dependencies]
 raylib = "5.0.2"
